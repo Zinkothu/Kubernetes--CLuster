@@ -27,4 +27,4 @@ ssh -T git@github.com
 
 
 
-![Alt text]([https://github.com/Zinkothu/Kubernetes--CLuster/blob/77207531784bc8ab2f2ce07e0215998af0bf4aa7/Kubernetes DNS.png](https://github.com/Zinkothu/Kubernetes--CLuster/blob/77207531784bc8ab2f2ce07e0215998af0bf4aa7/Kubernetes%20DNS.png))
+![Alt text](./Kubernetes%20DNS.png)
